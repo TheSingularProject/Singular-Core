@@ -1,0 +1,4 @@
+adduser 3.134 http://deb.debian.org/debian/pool/main/a/adduser/adduser_3.134_all.deb
+apt 2.6.1 http://deb.debian.org/debian/pool/main/a/apt/apt_2.6.1_amd64.deb
+base-files 12.4+deb12u15 http://deb.debian.org/debian/pool/main/b/base-files/base-files_12.4+deb12u15_amd64.deb
+base-passwd 3.6.1 http://deb.debian.org/debian/pool/main/b/base-passwd/base-passwd_3.6.1_amd64.deb

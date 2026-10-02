@@ -1,0 +1,24 @@
+# Init & Core System
+systemd
+systemd-sysv
+dbus
+bash
+coreutils
+util-linux
+
+# Network & Connectivity
+iproute2
+iputils-ping
+isc-dhcp-client
+ca-certificates
+curl
+wget
+
+# C/C++ Runtimes for AI Inference
+libstdc++6
+libgomp1
+
+# Storage & Filesystem Essentials
+e2fsprogs
+kmod
+sudo
