@@ -1,1 +1,17 @@
-Structure.md
+# Abaikan folder hasil perakitan OS
+rootfs/
+
+# Abaikan file disk image atau arsip
+*.img
+*.iso
+*.tar.gz
+*.qcow2
+
+# Abaikan file model LLM
+*.gguf
+/models/*
+!/models/.gitkeep
+
+# Abaikan build temporary artifacts
+/tmp/
+build/

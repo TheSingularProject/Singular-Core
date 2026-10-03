@@ -1,0 +1,5 @@
+/dev/sda1          /               ext4        ro,defaults,noatime        0      1
+tmpfs              /tmp            tmpfs       defaults,noatime,mode=1777 0      0
+tmpfs              /var/log        tmpfs       defaults,noatime,mode=0755 0      0
+tmpfs              /run            tmpfs       defaults,noatime           0      0
+/dev/sda2          /var/lib/singular/models ext4 defaults,noatime         0      2
