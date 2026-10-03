@@ -1,4 +1,0 @@
-adduser /var/cache/apt/archives/adduser_3.134_all.deb
-apt /var/cache/apt/archives/apt_2.6.1_amd64.deb
-base-files /var/cache/apt/archives/base-files_12.4+deb12u15_amd64.deb
-base-passwd /var/cache/apt/archives/base-passwd_3.6.1_amd64.deb
